@@ -76,4 +76,4 @@
 
 ##  EDUCATION 
 * **Masters of Business Administration** (2018-2020) | Adikavi Nannaya University |  Andhra Pradesh, India 
-* **Bachelor Of Science | Computer Science** (2015-2018) | Adikavi Nannaya University | Andhra Pradesh, India 
+* **Bachelor Of Computer Science** (2015-2018) | Adikavi Nannaya University | Andhra Pradesh, India 
