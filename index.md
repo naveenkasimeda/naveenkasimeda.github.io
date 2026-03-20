@@ -1,80 +1,42 @@
-# [cite_start]NAVEEN KASIMEDA [cite: 1]
-**Hyderabad - 500081 | [cite_start]+91 8639008748 | knaveen1697@gmail.com** [cite: 2]
+# NAVEEN KASIMEDA
+**Hyderabad - 500081 | +91 8639008748 | knaveen1697@gmail.com**
 
 ---
 
-## [cite_start]CAREER OBJECTIVE [cite: 3]
-[cite_start]Seeking a challenging position as a Cloud Data Engineer to leverage my expertise in implementing and monitoring data pipelines on cloud platforms, enabling data-driven decision-making and contributing to the success of innovative data-driven projects within a dynamic organization. [cite: 4]
+## CAREER OBJECTIVE
+Seeking a challenging position as a Cloud Data Engineer to leverage my expertise in implementing and monitoring data pipelines on cloud platforms, enabling data-driven decision-making and contributing to the success of innovative data-driven projects within a dynamic organization.
 
-## [cite_start]PROFESSIONAL SUMMARY [cite: 5]
-* [cite_start]Having 4 years of experience on Multi cloud as AWS & GCP Data engineer [cite: 6]
-* Hands on experience in implementing AWS service like EC2, S3, VPC, Cloud watch [cite: 7]
-* [cite_start]Hands on experience in migrating on premise ETL's to Google Cloud Platform (GCP) using Cloud native tools such as BigQuery, Google Cloud Storage, Cloud Composer/Airflow, PubSub and Dataproc. [cite: 7, 8]
-* [cite_start]Experience in Working with BigQuery to load data into multiple datasets, Control tables and Developed Authorized Views and Tagging Scripts [cite: 9]
-* Design and implement data pipelines that extract, transform, and load (ETL) data from various sources into data warehouses [cite: 10]
-* [cite_start]Develop and maintain data models and schemas to support business intelligence and analytic applications [cite: 11]
-* [cite_start]Develop and maintain ETL workflows usingtools such as Airflow/Composer [cite: 12]
-* Troubleshooting and resolving data-related problems, ensuringthe security and compliance of data [cite: 13]
-* Strong ability on logical analysis and problem solving/troubleshooting. [cite_start]Effective team work, Time Management skills [cite: 14]
+## PROFESSIONAL SUMMARY
+* Having 4 years of experience on Multi cloud as AWS & GCP Data engineer
+* Hands on experience in implementing AWS service like EC2, S3, VPC, Cloud watch
+* Hands on experience in migrating on premise ETL's to Google Cloud Platform (GCP) using Cloud native tools such as BigQuery, Google Cloud Storage, Cloud Composer/Airflow, PubSub and Dataproc.
+* Experience in Working with BigQuery to load data into multiple datasets, Control tables and Developed Authorized Views and Tagging Scripts
+* Design and implement data pipelines that extract, transform, and load (ETL) data from various sources into data warehouses
+* Develop and maintain data models and schemas to support business intelligence and analytic applications
+* Develop and maintain ETL workflows usingtools such as Airflow/Composer
+* Troubleshooting and resolving data-related problems, ensuringthe security and compliance of data
+* Strong ability on logical analysis and problem solving/troubleshooting. Effective team work, Time Management skills
 
-## [cite_start]CORE COMPETENCIES [cite: 15]
-* **AWS Cloud:** [cite: 16] EC2, IAM, VPC, S3 [cite: 17]
-* [cite_start]**Google Cloud Platform:** [cite: 28] [cite_start]Data Proc [cite: 29][cite_start], Google Cloud Storage [cite: 30][cite_start], Pub/Sub [cite: 31][cite_start], AirFlow-Composer [cite: 32]
-* [cite_start]**Languages & Tools:** SQL (MYSQL) [cite: 18][cite_start], GIT [cite: 33][cite_start], Python Scripting [cite: 34][cite_start], PySpark [cite: 36]
-* [cite_start]**Methodologies:** Agile/Jira [cite: 38]
+## CORE COMPETENCIES
+* **AWS Cloud:** EC2, IAM, VPC, S3
+* **Google Cloud Platform:** Data Proc, Google Cloud Storage, Pub/Sub, AirFlow-Composer
+* **Languages & Tools:** SQL (MYSQL), GIT, Python Scripting, PySpark
+* **Methodologies:** Agile/Jira
 
-## [cite_start]CERTIFICATION [cite: 39]
-* Certified Solutions Architect Associate (SAA) - 2021 [cite: 40]
-* [cite_start]Google Certified Professional Data Engineer (PDE) - 2022 [cite: 41]
-
----
-
-## [cite_start]WORK EXPERIENCE [cite: 42]
-
-### [cite_start]Virtusa Consulting Services pvt ltd - Software Engineer [cite: 43]
-**GCP Data Engineer | [cite_start]November, 2023 - Present** [cite: 44]
-* **Project:** Data Management & storage [cite: 45]
-* [cite_start]**Client:** Iron Mountain (IRM) [cite: 46]
-* [cite_start]**Technologies:** GCS, BigQuery, Data Proc, Airflow, SQL, Python, Py Spark [cite: 47]
-* Worked with software development and Data Engineer team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance [cite: 55]
-* [cite_start]Implementing monitoring, logging and altering solutions to proactively identify and address data pipeline issues [cite: 55]
-* [cite_start]Experience in SDK for Creating Buckets, Datasets, Data Loadings [cite: 56]
-* Involved transition process of newly created and enhanced ETL load's [cite: 57]
-* [cite_start]Worked on Creating DAG's and tasks to deploy and run PySpark jobs in the Airflow scheduling tool [cite: 58]
-* [cite_start]Development of the Dashboard based on the requirements and optimizing its performance through best practice [cite: 58]
-* Documenting technical designs, implementation details, and operational procedures to ensure knowledge sharing and maintainability [cite: 59]
-* [cite_start]Used GIT to manage and deploy the code version [cite: 60]
-
-### [cite_start]WIPRO Limited - Senior Engineer [cite: 61]
-**GCP Data Engineer | [cite_start]April, 2022 November, 2023** [cite: 62]
-* [cite_start]**Project:** Banking [cite: 63]
-* **Client:** ANZ [cite: 64]
-* [cite_start]**Technologies:** GCS, BigQuery, Airflow, SQL, Python, GIT [cite: 65]
-* [cite_start]Have extensive experience in IT Data & Analytics projects [cite: 70]
-* Designed and implemented ETL pipelines using Google Cloud Storage to ingest and process data from various sources, including customer profiles, and external market data [cite: 71]
-* [cite_start]Have experience on On premise ETLs to Google Cloud Platform (GCP) [cite: 72]
-* [cite_start]Created Entity relationship diagrams for all the tables to provide understanding to the team [cite: 73]
-* Developed SQL scripts to Load data into BigQuery [cite: 74]
-* [cite_start]Good Knowledge on developing SQL Scripts for Data transformations like applying Parse_Dates, Case, Cast, Trim and Concat functions [cite: 75]
-* Active participation in daily standup calls and Interacting with Client PM on regular basis [cite: 76]
-
-### Vayam Info Solution pvt ltd [cite: 77]
-**AWS Admin | [cite_start]July, 2021 - April, 2022** [cite: 78]
-* **Project:** Retail Customer [cite: 79]
-* [cite_start]**Client:** Woolworths [cite: 80]
-* [cite_start]**Technologies:** EC2, S3, VPC, IAM, Cloud Formation [cite: 81]
-* Hands on experience with AWS cloud environment [cite: 87]
-* [cite_start]Experience with AWS (IAM, S3, EC2, ELB, VPC, RDS, Route53) [cite: 88]
-* [cite_start]Responsible for launching amazon EC2 cloud instances using AWS [cite: 89]
-* Responsible for designing, Implementing, and supporting of cloud-based infrastructure [cite: 90]
-* [cite_start]Configured and Managed Elastic Load Balancing (ELB) to avoid fault tolerance and avoid single point of failure of applications, providing high availability [cite: 91]
-* [cite_start]Creating a service like EC2 and S3 using cloud formation templates [cite: 92]
-* Configured S3 buckets with various life cycle policies to archive infrequently accessed data to storage classes based on requirement [cite: 93]
-* [cite_start]Monitoring and optimizing cost for cloud resources [cite: 94]
-* [cite_start]Worked with teams define, build, and maintain cloud infrastructure [cite: 95]
+## CERTIFICATION
+* Certified Solutions Architect Associate (SAA) - 2021
+* Google Certified Professional Data Engineer (PDE) - 2022
 
 ---
 
-## [cite_start]EDUCATION [cite: 96]
-* **Masters of Business Administration** (2018-2020) | Adikavi Nannaya University | [cite_start]Andhra Pradesh, India [cite: 97, 98, 99]
-* **Bachelor Of Science | Computer Science** (2015-2018) | Adikavi Nannaya University | Andhra Pradesh, India [cite: 100, 101, 102]
+## WORK EXPERIENCE
+
+### Virtusa Consulting Services pvt ltd - Software Engineer
+**GCP Data Engineer | November, 2023 - Present**
+* **Project:** Data Management & storage
+* **Client:** Iron Mountain (IRM)
+* **Technologies:** GCS, BigQuery, Data Proc, Airflow, SQL, Python, Py Spark
+* Worked with software development and Data Engineer team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance
+* Implementing monitoring, logging and altering solutions to proactively identify and address data pipeline issues
+* Experience in SDK for Creating Buckets, Datasets, Data Loadings
+* Involved transition process of newly
