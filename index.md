@@ -1,79 +1,72 @@
-#  NAVEEN KASIMEDA 
-**Hyderabad - 500081 |  +91 8639008748 | knaveen1697@gmail.com** 
----
-
-##  CAREER OBJECTIVE 
- Seeking a challenging position as a Cloud Data Engineer to leverage my expertise in implementing and monitoring data pipelines on cloud platforms, enabling data-driven decision-making and contributing to the success of innovative data-driven projects within a dynamic organization.
-
-##  PROFESSIONAL SUMMARY 
-*  Having 4 years of experience on Multi cloud as AWS & GCP Data engineer 
-* Hands on experience in implementing AWS service like EC2, S3, VPC, Cloud watch 
-*  Hands on experience in migrating on premise ETL's to Google Cloud Platform (GCP) using Cloud native tools such as BigQuery, Google Cloud Storage, Cloud Composer/Airflow, PubSub and Dataproc. 
-*  Experience in Working with BigQuery to load data into multiple datasets, Control tables and Developed Authorized Views and Tagging Scripts 
-* Design and implement data pipelines that extract, transform, and load (ETL) data from various sources into data warehouses 
-*  Develop and maintain data models and schemas to support business intelligence and analytic applications 
-*  Develop and maintain ETL workflows usingtools such as Airflow/Composer 
-* Troubleshooting and resolving data-related problems, ensuringthe security and compliance of data 
-* Strong ability on logical analysis and problem solving/troubleshooting.  Effective team work, Time Management skills 
-
-##  CORE COMPETENCIES 
-* **AWS Cloud:** EC2, IAM, VPC, S3 
-*  **Google Cloud Platform:** Data Proc, Google Cloud Storage, Pub/Sub, AirFlow-Composer 
-*  **Languages & Tools:** SQL (MYSQL), GIT, Python Scripting, PySpark 
-* **Methodologies:** Agile/Jira 
-
-## CERTIFICATION 
-*  Certified Solutions Architect Associate (SAA) - 2021 
-*  Google Certified Professional Data Engineer (PDE) - 2022 
+# 👨‍💻 NAVEEN KASIMEDA
+📍 Hyderabad - 500081 | 📞 +91 8639008748 | ✉️ knaveen1697@gmail.com
 
 ---
 
-##  WORK EXPERIENCE 
+## 🎯 Career Objective
+Seeking a challenging position as a Cloud Data Engineer to leverage my expertise in implementing and monitoring robust data pipelines on cloud platforms. Aiming to enable data-driven decision-making and contribute to the success of innovative projects within a dynamic, forward-thinking organization.
 
-###  Virtusa Consulting Services pvt ltd - Software Engineer
-**GCP Data Engineer |  November, 2023 - Present** 
-*  **Project:** Data Management & storage
-*  **Client:** Iron Mountain (IRM) 
-*  **Technologies:** GCS, BigQuery, Data Proc, Airflow, SQL, Python, Py Spark 
-*  Worked with software development and Data Engineer team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance 
-*  Implementing monitoring, logging and altering solutions to proactively identify and address data pipeline issues 
-*  Experience in SDK for Creating Buckets, Datasets, Data Loadings 
-*  Involved transition process of newly created and enhanced ETL load's 
-*  Worked on Creating DAG's and tasks to deploy and run PySpark jobs in the Airflow scheduling tool 
-*  Development of the Dashboard based on the requirements and optimizing its performance through best practice 
-*  Documenting technical designs, implementation details, and operational procedures to ensure knowledge sharing and maintainability 
-*  Used GIT to manage and deploy the code version 
+## 📄 Professional Summary
+* **4+ years of multi-cloud experience** as a Data Engineer, specializing in AWS and Google Cloud Platform (GCP).
+* **AWS Expertise:** Hands-on experience implementing core AWS services, including EC2, S3, VPC, and CloudWatch.
+* **GCP Migrations:** Proven experience in migrating on-premise ETL workloads to GCP using cloud-native tools such as BigQuery, Google Cloud Storage (GCS), Cloud Composer/Airflow, Pub/Sub, and Dataproc.
+* **BigQuery Administration:** Proficient in working with BigQuery to load data into multiple datasets and control tables, as well as developing authorized views and tagging scripts.
+* **Data Pipelines:** Skilled in designing and implementing end-to-end data pipelines to extract, transform, and load (ETL) data from various sources into enterprise data warehouses.
+* **Data Modeling:** Adept at developing and maintaining data models and schemas to support business intelligence and analytical applications.
+* **Workflow Orchestration:** Strong background in developing and orchestrating ETL workflows using Apache Airflow and Cloud Composer.
+* **Troubleshooting & Security:** Experienced in troubleshooting and resolving complex data-related problems while ensuring strict data security and regulatory compliance.
+* **Soft Skills:** Strong logical analysis and problem-solving skills, complemented by excellent time management and effective teamwork capabilities.
 
-###  WIPRO Limited - Senior Engineer 
-**GCP Data Engineer |  April, 2022 November, 2023**
-* **Project:** Banking 
-*  **Client:** ANZ 
-*  **Technologies:** GCS, BigQuery, Airflow, SQL, Python, GIT
-* Have extensive experience in IT Data & Analytics projects 
-*  Designed and implemented ETL pipelines using Google Cloud Storage to ingest and process data from various sources, including customer profiles, and external market data
-*  Have experience on On premise ETLs to Google Cloud Platform (GCP) 
-* Created Entity relationship diagrams for all the tables to provide understanding to the team 
-*  Developed SQL scripts to Load data into BigQuery 
-*  Good Knowledge on developing SQL Scripts for Data transformations like applying Parse_Dates, Case, Cast, Trim and Concat functions 
-*  Active participation in daily standup calls and Interacting with Client PM on regular basis 
+## 🛠️ Core Competencies
+* **AWS Cloud:** EC2, IAM, VPC, S3, CloudWatch, CloudFormation
+* **Google Cloud Platform:** Dataproc, Cloud Storage (GCS), Pub/Sub, Cloud Composer/Airflow, BigQuery
+* **Languages & Tools:** Python, PySpark, SQL (MySQL), Git
+* **Methodologies:** Agile, Scrum, Jira
 
-###  Vayam Info Solution pvt ltd 
-**AWS Admin |  July, 2021 - April, 2022** 
-* **Project:** Retail Customer 
-*  **Client:** Woolworths 
-*  **Technologies:** EC2, S3, VPC, IAM, Cloud Formation 
-* Hands on experience with AWS cloud environment 
-*  Experience with AWS (IAM, S3, EC2, ELB, VPC, RDS, Route53) 
-*  Responsible for launching amazon EC2 cloud instances using AWS 
-* Responsible for designing, Implementing, and supporting of cloud-based infrastructure 
-*  Configured and Managed Elastic Load Balancing (ELB) to avoid fault tolerance and avoid single point of failure of applications, providing high availability 
-*  Creating a service like EC2 and S3 using cloud formation templates 
-* Configured S3 buckets with various life cycle policies to archive infrequently accessed data to storage classes based on requirement
-*  Monitoring and optimizing cost for cloud resources 
-*  Worked with teams define, build, and maintain cloud infrastructure 
+## 📜 Certifications
+* **Google Cloud Certified Professional Data Engineer (PDE)** – 2022
+* **AWS Certified Solutions Architect – Associate (SAA)** – 2021
 
----
+## 💼 Work Experience
 
-##  EDUCATION 
-* **Masters of Business Administration** (2018-2020) | Adikavi Nannaya University |  Andhra Pradesh, India 
-* **Bachelor Of Computer Science** (2015-2018) | Adikavi Nannaya University | Andhra Pradesh, India 
+### **Virtusa Consulting Services Pvt Ltd** | Software Engineer
+**GCP Data Engineer** | *November 2023 – Present*
+* **Project:** Data Management & Storage | **Client:** Iron Mountain (IRM)
+* **Technologies:** GCS, BigQuery, Dataproc, Airflow, SQL, Python, PySpark
+* Collaborate with software development and data engineering teams to design and deploy robust, scalable, and high-performance data solutions tailored to client requirements.
+* Implement comprehensive monitoring, logging, and alerting systems to proactively identify and resolve data pipeline bottlenecks.
+* Utilize GCP SDKs to programmatically create buckets, manage datasets, and execute automated data loads.
+* Manage the transition and deployment processes for newly created and enhanced ETL pipelines.
+* Design and orchestrate Directed Acyclic Graphs (DAGs) in Apache Airflow to efficiently schedule and run PySpark jobs.
+* Develop and optimize performance dashboards based on business requirements using industry best practices.
+* Document technical designs, implementation workflows, and operational procedures to ensure maintainability and facilitate knowledge sharing.
+* Manage version control and code deployment processes using Git.
+
+### **WIPRO Limited** | Senior Engineer
+**GCP Data Engineer** | *April 2022 – November 2023*
+* **Project:** Banking | **Client:** ANZ
+* **Technologies:** GCS, BigQuery, Airflow, SQL, Python, Git
+* Designed and implemented complex ETL pipelines utilizing Google Cloud Storage to ingest and process disparate data sources, including customer profiles and external market data.
+* Led the migration of legacy on-premise ETL processes to Google Cloud Platform (GCP).
+* Created comprehensive Entity-Relationship (ER) diagrams to provide the team with a clear understanding of the underlying data architecture.
+* Developed and optimized SQL scripts to efficiently load transformed data into BigQuery.
+* Applied advanced SQL transformations, utilizing functions such as `PARSE_DATE`, `CASE`, `CAST`, `TRIM`, and `CONCAT` for data cleansing and formatting.
+* Actively participated in Agile daily stand-ups and maintained regular communication with the Client Project Manager to ensure alignment on deliverables.
+
+### **Vayam Info Solution Pvt Ltd**
+**AWS Admin** | *July 2021 – April 2022*
+* **Project:** Retail | **Client:** Woolworths
+* **Technologies:** EC2, S3, VPC, IAM, CloudFormation
+* Managed and maintained the overall AWS cloud infrastructure, ensuring high availability and system security.
+* Administered core AWS services, including IAM, S3, EC2, ELB, VPC, RDS, and Route 53.
+* Provisioned and configured Amazon EC2 instances to support scalable application deployments.
+* Designed, implemented, and supported robust cloud-based infrastructure solutions for retail clients.
+* Configured Elastic Load Balancing (ELB) to ensure fault tolerance, eliminate single points of failure, and guarantee high availability.
+* Automated the provisioning of AWS services (EC2, S3) using infrastructure-as-code via CloudFormation templates.
+* Implemented automated S3 lifecycle policies to transition infrequently accessed data to cost-effective storage classes.
+* Monitored cloud resource utilization and applied cost-optimization strategies.
+* Collaborated cross-functionally to define, build, and maintain secure cloud infrastructure.
+
+## 🎓 Education
+* **Master of Business Administration (MBA)** | Adikavi Nannaya University, Andhra Pradesh, India | *2018 – 2020*
+* **Bachelor of Computer Science** | Adikavi Nannaya University, Andhra Pradesh, India | *2015 – 2018*
